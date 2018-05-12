@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '5443'
     url: http://www.gutenberg.org/2009/agents/5443
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36314#The-Radio-Boys-Rescue-the-Lost-Alaska-Expedition
 gutenberg_issued: '2011-06-04'
 gutenberg_type: Text
 identifiers:
